@@ -8,7 +8,7 @@ This project transforms complex clinical documents such as discharge summaries a
 > 👨‍💻 **Team Members:**  
 > - [Shreyanshi Srivastava](https://github.com/shreya-0806)  
 > - [Sarthak Pandey](https://github.com/spcodes26)  
-> - Shubham Kumar  
+> - [Shubham Kumar](https://github.com/shubh651)  
 
 [🔗 Open Project on Google Colab](https://colab.research.google.com/drive/1F0ax9YSadvLe1ZiGNKosFL1MhZYTpglr?usp=sharing)
 
@@ -91,7 +91,7 @@ This project was developed for academic purposes as part of SRMCEM’s Summer AI
 
 - [**Shreyanshi Srivastava**](https://github.com/shreya-0806) – Lead, Gradio UI, Summarization  
 - [**Sarthak Pandey**](https://github.com/spcodes26) – PDF Extraction, Embeddings  
-- **Shubham Kumar** – FAISS Search, Optimization  
+- [**Shubham Kumar**](https://github.com/shubh651) – FAISS Search, Optimization  
 
 ---
 
