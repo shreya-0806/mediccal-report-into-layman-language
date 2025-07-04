@@ -17,6 +17,11 @@ This project transforms complex clinical documents such as discharge summaries a
 ## 📘 Project Topic
 
 **"AI-Powered Clinical Report Simplifier"**  
+
+***Medical report to patient-Friendly Summary Generator....***
+ Input PDF: Clinical notes, medical research papers or discharge summaries
+ Output task : Generate a layman-understandable explanation of a patient(e.g. , what disease, symptoms, prescribed medicines).
+ 
 The goal is to make medical reports understandable for patients by converting technical medical text into easy-to-read summaries using AI.
 
 ---
